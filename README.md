@@ -20,6 +20,7 @@ This document assume you know how to play League of Legends
     * **Green** = bad solo, good with others. Long fight, supports others, need item's powerspike.
     * **White** = Versatile, fills many roles, normally supporting
     * **Black** = power at a cost (need that must be met or having his own gameplay). Helps accelerate other playstyle. 
+    * **Pink/colorless** = Strong by themself, need the draft to be thinks around them.
 
 7. "Timing" give you how well your team perform in Early, Mid and Late
 
