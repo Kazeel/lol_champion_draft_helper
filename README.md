@@ -12,9 +12,9 @@ This document assume you know how to play League of Legends
 3. Column E (named **E**) tell you how well the champion perform in **E**arly Game
 4. Column F (named **M**) tell you how well the champion perform in **M**id Game
 5. Column G (named **L**) tell you how well the champion perform in **L**ate Game
-    * Green = well, Yellow = Correct, Red = Bad 
+    * Green = well, Yellow = Correct, Red = Bad [¹]
 
-6. Columns H, I and J (named **C1**, **C2** and **C3**) give you the "playstyle" of the champion"
+6. Columns H, I and J (named **C1**, **C2** and **C3**) give you the "playstyle" of the champion"[²]
     * **Red** = aggressive early. useless late or behind, need snowball.
     * **Blue** = control, often excellent lategame and weak early, scaling, prefers no action.
     * **Green** = bad solo, good with others. Long fight, supports others, need item's powerspike.
@@ -29,7 +29,7 @@ This document assume you know how to play League of Legends
     - "Dive-in" : 0 = team should not comit, 5 = all team should try to go in
     - "Front to back" : 0 = team dont need peel (ex : not having long range carry or no tank), 5 = team need to keep solid formation (peel for carry)
 
-9. "Compo style" give you how your team should fight (rating from 0 to 100)
+9. "Compo style" give you how your team should fight (rating from 0 to 100)[³]
     - **Fight** : Great score mean your team want to have **short fight**, maybe doing **wombo combo**
     - **Catch** : Great score mean your team want to **catch** (doing 2v1, or 3v2 for example), use vision or **globals** (ex: Galio R) to always have the edge, often avoid direct 5v5
     - **Protect** : Great score mean your team want to **peel** and **protect** your carry, often prefer **long fight**
@@ -40,6 +40,6 @@ For more information :
 
 ### Sources
 #### Draft
-* LS - MTG Color system : https://docs.google.com/spreadsheets/d/1ea8M5VYR6qNS005Hd6DyplX9Z5UZOjmYYxzpTgyueF0/edit#gid=0
-* Mobalytics : https://app.mobalytics.gg/lol/champions
-* Randomonium - Classes Champions : https://www.youtube.com/watch?v=k5HDHIJIqn0
+* [²]: LS - MTG Color system : https://docs.google.com/spreadsheets/d/1ea8M5VYR6qNS005Hd6DyplX9Z5UZOjmYYxzpTgyueF0/edit#gid=0
+* [¹]: Mobalytics : https://app.mobalytics.gg/lol/champions
+* [³]: Randomonium - Classes Champions : https://www.youtube.com/watch?v=k5HDHIJIqn0
