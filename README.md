@@ -24,10 +24,10 @@ This document assume you know how to play League of Legends
 
 7. "Timing" give you how well your team perform in Early, Mid and Late
 
-8. "How to fight" give you how well your team fight in different configuration 
-    - "FIght duration" : 0 = team need short fight, 3 = team need long fight
-    - "Dive-in" : 0 = team should not comit, 5 = all team should try to go in
-    - "Front to back" : 0 = team dont need peel (ex : not having long range carry or no tank), 5 = team need to keep solid formation (peel for carry)
+8. **How to fight** tell you how well your team fight in different configuration :
+    - **Fight duration** : **0** = team needs **short fight**, **3** = team needs **long fight**
+    - **Dive-in** : **0** = team should **not comit**, **5** = all team should try to **go in**
+    - **Front to back** : **0** = team dont need peel (ex : not having long range carry or no tank), **5** = team need to keep **solid formation** (**peel for carry**)
 
 9. "Compo style" give you how your team should fight (rating from 0 to 100)[^3]
     - **Fight** : Great score mean your team want to have **short fight**, maybe doing **wombo combo**
