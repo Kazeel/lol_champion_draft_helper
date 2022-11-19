@@ -5,7 +5,7 @@ By Kazeel
 This document assume you know how to play League of Legends
 
 ## How to use
-1. Download the file (here or https://docs.google.com/spreadsheets/d/1QZ7Ge03MlYqUtDyqGxI6tF8feY4Jr3Bto-K-06pfMyQ/edit?usp=sharing)
+1. Download the file (here or [the googlesheet version](https://docs.google.com/spreadsheets/d/1QZ7Ge03MlYqUtDyqGxI6tF8feY4Jr3Bto-K-06pfMyQ/edit?usp=sharing)
 
 2. Cells C8 to C12 allow you to draft your team
 
