@@ -15,11 +15,11 @@ This document assume you know how to play League of Legends
     * Green = well, Yellow = Correct, Red = Bad 
 
 6. Columns H, I and J (named **C1**, **C2** and **C3**) give you the "playstyle" of the champion"
-    * Red = early aggresive (need to capitalize in early or it become useless), 
-    * Blue = late scaling (snowball by getting ressources, often bad early), 
-    * Green = Team oriented (not good alone, excellent combine with others, often mid game oriented)
-    * White = Polyvalent (Fit everywhere, good on his own), 
-    * Black = Gain unfair advantage by giving up something else (ex = ADC gaining Assasin mecanics), accelerate other playstyle, Pink = Need to be draft around, strong but limited 
+    * **Red** = aggressive early. useless late or behind, need snowball.
+    * **Blue** = control, often excellent lategame and weak early, scaling, prefers no action.
+    * **Green** = bad solo, good with others. Long fight, supports others, need item's powerspike.
+    * **White** = Versatile, fills many roles, normally supporting
+    * **Black** = power at a cost (need that must be met or having his own gameplay). Helps accelerate other playstyle. 
 
 7. "Timing" give you how well your team perform in Early, Mid and Late
 
