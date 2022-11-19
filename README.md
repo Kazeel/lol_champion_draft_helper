@@ -30,11 +30,11 @@ This document assume you know how to play League of Legends
     - "Front to back" : 0 = team dont need peel (ex : not having long range carry or no tank), 5 = team need to keep solid formation (peel for carry)
 
 9. "Compo style" give you how your team should fight (rating from 0 to 100)
-    - "Fight" : Great score mean your team want to have short fight, maybe doing wombo combo (think short but intense fight when you need burst 2 or 3 ennemies)
-    - "Catch" : Great score mean your team want to catch (doing 2v1, or 3v2 for example), use vision or global to always have the edge, often avoid direct 5v5
-    - "Protect" : Great score mean your team want to peel and protect your carry, often prefer long fight
-    - "Poke" : Great score mean your time want to wear people down by inflicting long range damage, avoid getting catch or engage and wainting to force back to take initiative
-    - "Split" : Great score mean your team want to avoid fight, and try to get objectives by spltting the ennemy team, or attacking some isolate tower (Tryndamere style)
+    - **Fight** : Great score mean your team want to have **short fight**, maybe doing **wombo combo**
+    - **Catch** : Great score mean your team want to **catch** (doing 2v1, or 3v2 for example), use vision or **globals** (ex: Galio R) to always have the edge, often avoid direct 5v5
+    - **Protect** : Great score mean your team want to **peel** and **protect** your carry, often prefer **long fight**
+    - **Poke** : Great score mean your time want to wear people down by inflicting **long range damage**, avoid getting catch or engage and wainting to force back to take initiative
+    - **Split** : Great score mean your team want to **avoid fight**, and try to get objectives by **spltting** the ennemy team, or attacking some isolate tower (Tryndamere style)
 
 For more information : 
 
