@@ -1,10 +1,10 @@
-# lol_champion_draft_helper
+# Lol Champion Draft Helper
 
 By Kazeel
 
 This document assume you know how to play League of Legends
 
-How to use
+## How to use
 1 - Dowload the file
 
 2 - Cells C8 to C12 allow you to draft your team
@@ -35,8 +35,8 @@ For more information :
 9.5 "Split" : Great score mean your team want to avoid fight, and try to get objectives by spltting the ennemy team, or attacking some isolate tower (Tryndamere style)
 For more information : 
 
-Sources
-Draft
+### Sources
+####Draft
 LS - MTG Color system
 Mobalytics 
 Randomonium - Classes Champions
