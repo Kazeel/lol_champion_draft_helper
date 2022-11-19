@@ -36,10 +36,6 @@ This document assume you know how to play League of Legends
     - **Poke** : Great score mean your time want to wear people down by inflicting **long range damage**, avoid getting catch or engage and wainting to force back to take initiative
     - **Split** : Great score mean your team want to **avoid fight**, and try to get objectives by **spltting** the ennemy team, or attacking some isolate tower (Tryndamere style)
 
-For more information : 
-
-### Sources
-#### Draft
-* [^2]: LS - MTG Color system : https://docs.google.com/spreadsheets/d/1ea8M5VYR6qNS005Hd6DyplX9Z5UZOjmYYxzpTgyueF0/edit#gid=0
-* [^1]: Mobalytics : https://app.mobalytics.gg/lol/champions
-* [^3]: Randomonium - Classes Champions : https://www.youtube.com/watch?v=k5HDHIJIqn0
+[^1]: Source - Mobalytics : https://app.mobalytics.gg/lol/champions
+[^2]: Source - LS - MTG Color system : https://docs.google.com/spreadsheets/d/1ea8M5VYR6qNS005Hd6DyplX9Z5UZOjmYYxzpTgyueF0/edit#gid=0
+[^3]: Source - Randomonium - Classes Champions : https://www.youtube.com/watch?v=k5HDHIJIqn0
