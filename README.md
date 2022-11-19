@@ -23,9 +23,9 @@ For more information :
 7. "Timing" give you how well your team perform in Early, Mid and Late
 
 8. "How to fight" give you how well your team fight in different configuration 
-  8.1. "FIght duration" : 0 = team need short fight, 3 = team need long fight
-  8.2. "Dive-in" : 0 = team should not comit, 5 = all team should try to go in
-  8.3. "Front to back" : 0 = team dont need peel (ex : not having long range carry or no tank), 5 = team need to keep solid formation (peel for carry)
+  1. "FIght duration" : 0 = team need short fight, 3 = team need long fight
+  2. "Dive-in" : 0 = team should not comit, 5 = all team should try to go in
+  3. "Front to back" : 0 = team dont need peel (ex : not having long range carry or no tank), 5 = team need to keep solid formation (peel for carry)
 
 9. "Compo style" give you how your team should fight (rating from 0 to 100)
   9.1 "Fight" : Great score mean your team want to have short fight, maybe doing wombo combo (think short but intense fight when you need burst 2 or 3 ennemies)
@@ -37,6 +37,6 @@ For more information :
 
 ### Sources
 #### Draft
-* LS - MTG Color system
-* Mobalytics 
-* Randomonium - Classes Champions
+* LS - MTG Color system : https://docs.google.com/spreadsheets/d/1ea8M5VYR6qNS005Hd6DyplX9Z5UZOjmYYxzpTgyueF0/edit#gid=0
+* Mobalytics : https://app.mobalytics.gg/lol/champions
+* Randomonium - Classes Champions : https://www.youtube.com/watch?v=k5HDHIJIqn0
