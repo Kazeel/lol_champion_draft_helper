@@ -5,18 +5,21 @@ By Kazeel
 This document assume you know how to play League of Legends
 
 ## How to use
-1. Dowload the file (here or https://docs.google.com/spreadsheets/d/1QZ7Ge03MlYqUtDyqGxI6tF8feY4Jr3Bto-K-06pfMyQ/edit?usp=sharing)
+1. Download the file (here or https://docs.google.com/spreadsheets/d/1QZ7Ge03MlYqUtDyqGxI6tF8feY4Jr3Bto-K-06pfMyQ/edit?usp=sharing)
 
 2. Cells C8 to C12 allow you to draft your team
 
-3. Column E (named E) tell you how well the champion perform in Early Game
-4. Column F (named M) tell you how well the champion perform in Mid Game
-5. Column G (named L) tell you how well the champion perform in Late Game
-    * For 3,4,5 : Green = well, Yellow = Correct, Red = Bad 
+3. Column E (named **E**) tell you how well the champion perform in **E**arly Game
+4. Column F (named **M**) tell you how well the champion perform in **M**id Game
+5. Column G (named **L**) tell you how well the champion perform in **L**ate Game
+    * Green = well, Yellow = Correct, Red = Bad 
 
-6. Columns H, I and J (named C1, C2 and C3) give you the "playstyle" of the champion"
-    * Red = early aggresive (need to capitalize in early or it become useless), Blue = late scaling (snowball by getting ressources, often bad early), Green = Team oriented (not good alone, excellent combine with others, often mid game oriented)
-    * White = Polyvalent (Fit everywhere, good on his own), Black = Gain unfair advantage by giving up something else (ex = ADC gaining Assasin mecanics), accelerate other playstyle, Pink = Need to be draft around, strong but limited 
+6. Columns H, I and J (named **C1**, **C2** and **C3**) give you the "playstyle" of the champion"
+    * Red = early aggresive (need to capitalize in early or it become useless), 
+    * Blue = late scaling (snowball by getting ressources, often bad early), 
+    * Green = Team oriented (not good alone, excellent combine with others, often mid game oriented)
+    * White = Polyvalent (Fit everywhere, good on his own), 
+    * Black = Gain unfair advantage by giving up something else (ex = ADC gaining Assasin mecanics), accelerate other playstyle, Pink = Need to be draft around, strong but limited 
 
 7. "Timing" give you how well your team perform in Early, Mid and Late
 
